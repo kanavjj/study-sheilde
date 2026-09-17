@@ -1,0 +1,5 @@
+
+<resources>
+    <string name="app_name">Study Shield</string>
+    <string name="accessibility_description">Study Shield uses accessibility events to detect when a blocked app is opened during an active study session and returns you to the study screen.</string>
+</resources>
